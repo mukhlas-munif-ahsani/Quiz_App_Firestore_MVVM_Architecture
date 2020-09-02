@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "970681086998",
+    "firebase_url": "https://quiz-app-firestore-mvvm-arch.firebaseio.com",
+    "project_id": "quiz-app-firestore-mvvm-arch",
+    "storage_bucket": "quiz-app-firestore-mvvm-arch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970681086998:android:9f3d81c37cf123f6827137",
+        "android_client_info": {
+          "package_name": "com.example.quizapp_firestoremvvmarchitecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970681086998-492krk8gjdlpmid7i28bsa6facasj7v6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizapp_firestoremvvmarchitecture",
+            "certificate_hash": "4f9abd8ae295532f57e33b457f8309c133706551"
+          }
+        },
+        {
+          "client_id": "970681086998-j3u266rkdkmu1hv92j3resek1uo6eh27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy4f1x9kYKmz3hMkllH70ulwatrWXopbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970681086998-j3u266rkdkmu1hv92j3resek1uo6eh27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
